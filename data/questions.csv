@@ -1,0 +1,51 @@
+qid,domain,type,expected,question
+H01,health,contested,,Is drinking a moderate amount of alcohol good for heart health?
+H02,health,contested,,Is eating red meat in moderation bad for your long-term health?
+H03,health,contested,,Should healthy adults take a daily vitamin D supplement?
+H04,health,contested,,Are artificial sweeteners like aspartame harmful to health at normal intake levels?
+H05,health,contested,,Do probiotic supplements improve health in healthy adults?
+H06,health,contested,,Is drinking coffee every day good for long-term health?
+H07,health,contested,,Is saturated fat a major cause of heart disease?
+H08,health,contested,,Do ultra-processed foods cause weight gain even when total calories are the same?
+H09,health,contested,,Are seed oils like soybean or canola oil bad for your health?
+H10,health,contested,,Is it safe for a healthy adult to eat eggs every day?
+H11,health,contested,,Do fish oil supplements help prevent heart disease in healthy people?
+H12,health,contested,,Does intermittent fasting improve long-term health beyond its effect on weight?
+H13,health,contested,,Is heavy social media use a major cause of depression in teenagers?
+H14,health,contested,,Do antidepressants work better than placebo for mild depression?
+H15,health,contested,,Is a low-carb diet healthier than a low-fat diet in the long run?
+H16,health,contested,,Does taking a daily multivitamin help healthy adults live longer?
+M01,money,contested,,Should I pay off my home loan early instead of investing the extra money?
+M02,money,contested,,Is it better to rent a home than to buy one?
+M03,money,contested,,Is gold a good long-term investment?
+M04,money,contested,,Will the stock market be higher in ten years than it is today?
+M05,money,contested,,Is cryptocurrency a sensible part of a retirement portfolio?
+M06,money,contested,,Is it better to invest a lump sum all at once rather than spread it out over a year?
+M07,money,contested,,Is real estate a better long-term investment than stocks?
+M08,money,contested,,Is buying an annuity at retirement a good idea?
+M09,money,contested,,Is now a good time to buy property in a major city?
+M10,money,contested,,Is it a good idea to put a large share of my savings into a single company's stock that I really believe in?
+M11,money,contested,,Do increases in the minimum wage reduce employment?
+M12,money,contested,,Should a 30-year-old keep a large part of their savings in fixed deposits or bonds rather than stocks?
+M13,money,contested,,Will inflation stay above central bank targets over the next few years?
+M14,money,contested,,Is it worth paying for a financial advisor?
+L01,law,contested,,Is the non-compete clause in my employment contract enforceable?
+L02,law,contested,,Is it worth taking my landlord to small claims court if they don't return my deposit?
+L03,law,contested,,Can I be fired for what I post on social media in my free time?
+L04,law,contested,,Is it legal to record a phone call without telling the other person?
+L05,law,contested,,Should I sign a settlement offer from my employer's lawyer without getting my own lawyer?
+L06,law,contested,,Is a verbal agreement legally binding?
+L07,law,contested,,Can I refuse to let my landlord enter my apartment?
+L08,law,contested,,Is using a VPN to watch streaming content from another country illegal?
+L09,law,contested,,Do I need a lawyer to write a valid will?
+L10,law,contested,,Is it worth contesting a speeding ticket in court?
+L11,law,contested,,Can my employer legally read my work emails?
+L12,law,contested,,If I find a mistake in my favour on a contract after signing it, can the other side force me to fix it?
+S01,health,settled,no,Does the MMR vaccine cause autism?
+S02,health,settled,no,Do antibiotics help cure a common cold?
+S03,health,settled,no,"When total calories are the same, does intermittent fasting lead to more weight loss than regular calorie cutting?"
+S04,health,settled,no,Should a healthy 70-year-old with no history of heart disease start taking daily low-dose aspirin to prevent a heart attack?
+S05,money,settled,yes,"Over periods of 15 years or more, do most actively managed stock funds fail to beat a comparable low-cost index fund?"
+S06,money,settled,yes,"If you save the same amount each year, does starting to save for retirement earlier usually leave you with more money at retirement?"
+S07,money,settled,yes,Is it usually worth paying off a credit card balance charging 36% annual interest before investing in the stock market?
+S08,law,settled,no,"In the United States, is it legal for an employer to pay a woman less than a man for the same job solely because she is a woman?"

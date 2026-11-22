@@ -1,0 +1,22 @@
+# secrets
+.env
+.env.*
+
+# third-party dataset: download it yourself (see README)
+data/debateqa/
+
+# earlier TruthfulQA prototype, superseded by run_experiment.py
+harness.py
+data/TruthfulQA.csv
+
+# scratch and logs
+results/smoke.jsonl
+results/*.log
+results_pilot_ids.txt
+results_qwen_pilot.log
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/

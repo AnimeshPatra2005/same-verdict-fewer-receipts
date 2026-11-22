@@ -1,0 +1,86 @@
+n,id,source,tier,field,settled_answer,forced,n_perspectives,question
+1,25,DebatableWeb,debated,health,,,3,Is obesity a disease or personal responsibility?
+2,65,DebatableWeb,debated,health,,,5,Should alternative medicine be covered by insurance providers?
+3,85,ConflictingQA,debated,health,,,3,Should pregnant women follow a vegan diet?
+4,494,DebatableWeb,debated,health,,,5,Are beauty pageants hurting children’s self-esteem?
+5,538,DebatableWeb,debated,health,,,3,Can a New Year’s resolution change your life?
+6,612,DELPHI,debated,health,,,3,Can a male love several females?
+7,646,ConflictingQA,debated,health,,,3,Can testosterone increase the risk of prostate cancer?
+8,767,ConflictingQA,debated,health,,,4,Are knee braces effective in preventing knee injuries?
+9,774,ConflictingQA,debated,health,,,6,Are morning people more productive than night owls?
+10,862,DebatableWeb,debated,health,,,6,Is homework beneficial?
+11,877,ConflictingQA,debated,health,,,3,Does Growth Hormone treatment reverse aging effects?
+12,908,DebatableWeb,debated,health,,,3,Is it OK to laugh during dark times?
+13,909,ConflictingQA,debated,health,,,3,Does drinking cranberry juice prevent urinary tract infections?
+14,918,ConflictingQA,debated,health,,,3,Does following a Paleo diet reduce the risk of heart disease?
+15,933,ConflictingQA,debated,health,,,3,Does lactose intolerance lead to osteoporosis?
+16,21,DebatableWeb,debated,economics,,,4,Is the local minimum wage truly a living wage?
+17,59,DebatableWeb,debated,economics,,,3,Is gentrification good for urban renewal or does it displace minority communities?
+18,88,DebatableWeb,debated,economics,,,5,Should the government provide money to companies in order to create jobs?
+19,136,DebatableWeb,debated,economics,,,5,Should public transit be free?
+20,148,DebatableWeb,debated,economics,,,5,Does globalization exploit developing countries or provide economic opportunity?
+21,154,DELPHI,debated,economics,,,3,Is heavy population a curse or blessing?
+22,155,DebatableWeb,debated,economics,,,5,Should college athletes be paid a salary?
+23,251,DebatableWeb,debated,economics,,,4,Should home-cooked meals be encouraged through tax incentives?
+24,290,DebatableWeb,debated,economics,,,5,Should the government break up big tech companies to prevent monopolies?
+25,424,DebatableWeb,debated,economics,,,3,Should public college be tuition-free?
+26,425,DebatableWeb,debated,economics,,,8,Is the use of economic sanctions an effective tool for promoting political change in other countries?
+27,491,DebatableWeb,debated,economics,,,5,Should the Western nations give development aid?
+28,519,DebatableWeb,debated,economics,,,6,"Should school vouchers be provided to allow parents to choose alternative education options, including private schools?"
+29,957,DebatableWeb,debated,economics,,,3,Should the government provide subsidies to promote renewable energy sources and phase out fossil fuel subsidies?
+30,990,DebatableWeb,debated,economics,,,6,Should the government provide subsidies to certain industries to stimulate economic growth?
+31,2,DebatableWeb,debated,science,,,4,"Does the “reduce, reuse, recycle” mantra actually help the environment?"
+32,3,ConflictingQA,debated,science,,,4,Is gravity a force?
+33,16,ConflictingQA,debated,science,,,3,Is it feasible for public buses to run on solar power?
+34,66,ConflictingQA,debated,science,,,3,Is the trash island in the Pacific Ocean as large as Texas?
+35,101,DebatableWeb,debated,science,,,3,Is nuclear fusion a promising and safe source of clean energy for the future?
+36,188,DebatableWeb,debated,science,,,3,Is the development of artificial intelligence dangerous to society?
+37,195,DebatableWeb,debated,science,,,3,"Should the creation of fully autonomous vehicles be accelerated, or does it pose too many ethical and safety concerns?"
+38,504,ConflictingQA,debated,science,,,3,Was the Temple of Solomon real?
+39,600,ConflictingQA,debated,science,,,3,Can black holes be seen with a telescope?
+40,614,ConflictingQA,debated,science,,,3,Can humans live on Mars?
+41,816,ConflictingQA,debated,science,,,3,Do all animals sleep?
+42,827,ConflictingQA,debated,science,,,3,Do birds mate for life?
+43,893,ConflictingQA,debated,science,,,3,Does centrifugal force exist?
+44,971,ConflictingQA,debated,science,,,3,Is English the universal language of science?
+45,977,ConflictingQA,debated,science,,,5,Is IPv6 fundamentally more secure than IPv4?
+46,50,DebatableWeb,debated,law,,,3,Is the US voting system democratic?
+47,83,DebatableWeb,debated,law,,,5,"Should whistleblowers be protected, even if their actions breach confidentiality or national security?"
+48,150,DebatableWeb,debated,law,,,6,Should facial recognition technology be used in schools?
+49,159,DebatableWeb,debated,law,,,6,Is civil asset forfeiture by police departments justified?
+50,276,DELPHI,debated,law,,,3,Would open carry gun laws lead to more violence than widespread concealed carry permits?
+51,347,DebatableWeb,debated,law,,,3,"Should governments have the authority to access personal data for public health monitoring, as seen in the case of pandemics?"
+52,372,DELPHI,debated,law,,,3,Is it time for the U.S. to introduce tighter gun control?
+53,463,DebatableWeb,debated,law,,,3,Should celebrities and influencers be required to disclose paid content on social media?
+54,481,DebatableWeb,debated,law,,,5,Should the sedition law be scrapped in a democratic country like India?
+55,689,DELPHI,debated,law,,,3,Will the electoral college change their vote if enough people protest against Donald Trump?
+56,864,DebatableWeb,debated,law,,yes,3,Should chemical and biological weapons be universally banned?
+57,955,DELPHI,debated,law,,,4,Is it possible for a woman to rape a man?
+58,969,DebatableWeb,debated,law,,,3,"Should the criminalization of certain actions be reevaluated in favor of alternative approaches, such as restorative justice programs?"
+59,984,DebatableWeb,debated,law,,,3,Do Netizens really assist authorities in solving true crime cases?
+60,997,DebatableWeb,debated,law,,,3,Should businesses be able to deny services based on religious objections?
+61,370,DELPHI,consensus_contested,health,yes,,3,Is there any scientific evidence to support transgender identity?
+62,398,DebatableWeb,consensus_contested,health,yes,yes,3,Is there a link between poverty and poor health?
+63,450,DELPHI,consensus_contested,health,no,,4,Does the MMR vaccine cause autism?
+64,457,DebatableWeb,consensus_contested,health,no,,3,Is homosexuality a lifestyle choice?
+65,602,ConflictingQA,consensus_contested,health,no,,5,Can certain foods burn more calories than they provide?
+66,981,ConflictingQA,consensus_contested,health,no,,3,Is Subliminal Advertising Real?
+67,698,DELPHI,consensus_contested,economics,yes,yes,3,Are blacks paid less than whites?
+68,930,DebatableWeb,consensus_contested,economics,yes,,3,Can a college degree assist with better employment opportunities?
+69,7,ConflictingQA,consensus_contested,science,no,,3,Is hydrogen fuel cell tech more efficient than battery electric vehicles?
+70,124,DELPHI,consensus_contested,science,no,,3,Was 9/11 really an Inside job?
+71,209,DebatableWeb,consensus_contested,science,yes,,3,Is cell phone radiation safe?
+72,830,ConflictingQA,consensus_contested,science,no,,3,Do chameleons change color to blend with their environment?
+73,994,DebatableWeb,consensus_contested,science,yes,,5,Does global warming have serious effects on humanity?
+74,294,DELPHI,consensus_contested,law,no,,3,Is the right wing theory true that Biden is planning to run with Barack Obama as his Vice President so Barack Obama holds power for 8 more years?
+75,686,DELPHI,consensus_contested,law,no,,3,Can President Obama authorize the IRS to release Trump's tax returns?
+76,563,DELPHI,trivia,health,yes,,5,Can a person lose weight by only dieting?
+77,641,ConflictingQA,trivia,health,yes,,3,Can smoking cause Rheumatoid Arthritis?
+78,822,ConflictingQA,trivia,health,yes,,5,Do all vegans need to take dietary supplements?
+79,923,ConflictingQA,trivia,health,yes,,3,Does honey contain harmful bacteria?
+80,595,ConflictingQA,trivia,science,yes,,3,Can a chicken live without its head?
+81,620,ConflictingQA,trivia,science,no,,3,Can mercury be a solid at room temperature?
+82,624,ConflictingQA,trivia,science,yes,,3,Can plants grow without sunlight?
+83,764,ConflictingQA,trivia,science,no,yes,3,Are human facial features based on the Golden ratio?
+84,618,ConflictingQA,trivia,law,no,,3,Can ideas be patented?
+85,896,ConflictingQA,trivia,law,yes,,3,Does champagne come solely from France?
